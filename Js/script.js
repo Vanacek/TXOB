@@ -1,5 +1,6 @@
 
-$(document).ready(function() {
+/*$(document).ready(function() {
 	$("#logo"). hide();
 	$("#logo"). fadeIn(3000);
 });
+*/
